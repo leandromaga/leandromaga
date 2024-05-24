@@ -15,4 +15,4 @@ Tive oportunidade de desenvolver softwares desktop em JavaFX utilizando SceneBui
 <a href="https://www.linkedin.com/in/leandrocunhamagalhães/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://codepen.io/leandromaga">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a> <a href="https://www.hackerrank.com/profile/leandromaga">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 
-![Snake animation](https://github.com/leandromaga/leandromaga/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
